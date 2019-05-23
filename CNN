@@ -1,0 +1,17 @@
+CNN - Neocogniton
+
+ansemble - diversity 높여줌 
+softmax - nomarlize 한 후 더하면 1이 됨 
+
+GoogleNet
+
+- 1 X 1 convouition layer
+- Inception Module
+- add Auxiliary Classifier 
+
+ResNet - China 
+- Residual Learning
+- skip connection
+
+DenseNet 
+
